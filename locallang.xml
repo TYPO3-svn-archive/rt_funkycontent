@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'rt_funkycontent'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">Funky Tabbox</label>
+			<label index="pi1_plus_wiz_description">Alle content elements from a selected page in a jQuery tabbox</label>
+			<label index="pi2_title">Funky Accordion</label>
+			<label index="pi2_plus_wiz_description">Alle content elements from a selected page in a jQuery accordion</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="pi1_title">Funky Tabbox</label>
+			<label index="pi1_plus_wiz_description">Zeigt die Inhalte einer gewählen Seite in einer jQuery Tabbox</label>
+			<label index="pi2_title">Funky Akkordion</label>
+			<label index="pi2_plus_wiz_description">Zeigt die Inhalte einer gewählen Seite in einem jQuery Akkordion</label>
+		</languageKey>
+	</data>
+</T3locallang>
